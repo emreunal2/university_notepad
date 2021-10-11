@@ -43,4 +43,4 @@ The following grading system will be applied for this course.
 |**W11**|Dynamic Programming: Longest common subsequence, Warshall’s and Floyd’s Algorithms| |Quiz#7(During Lecture Hours)
 |**W12**|Greedy Algorithms: Activity selection, Huffman codes, Prim’s algorithm, Kruskal’s Algorithm|•Read Chapter 9 of the textbook|Quiz#8(During Lecture Hours)
 |**W13**|Single-source shortest paths: Dijkstra's algorithm.||Quiz#9(During Lecture Hours)
-|**W14**|Limitations of Algorithm Power, Lower bound, P, NP, and NP-complete problems|•Read Chapter 11 of the textbook|•Quiz#10 (During Lecture Hours)•Project reportwith its presentation 
+|**W14**|Limitations of Algorithm Power, Lower bound, P, NP, and NP-complete problems|•Read Chapter 11 of the textbook|•Quiz#10 (During Lecture Hours)•Project reportwith its presentation
