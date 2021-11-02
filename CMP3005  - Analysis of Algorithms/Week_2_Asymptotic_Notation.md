@@ -58,12 +58,25 @@ else return -1
 1. n^a dominates n^b if a > b: for instance,
    - _n^2 dominates n_
 1. Any exponential dominates any polynomial:
-   -  3^n dominates n^5(it even dominates 2^n
+   - 3^n dominates n^5(it even dominates 2^n
 1. Likewise, any polynomial dominates any logarithm
-   *  n dominates (log n)^3
+   - n dominates (log n)^3
 
-## Common plots of O(T(n))
-![test](https://jarednielsen.com/static/140e001aad420b3bcdda52c9da2a01f8/a987b/jarednielsen-big-o-chart.png)
+**Common plots of O(T(n))**
+![](https://jarednielsen.com/static/140e001aad420b3bcdda52c9da2a01f8/a987b/jarednielsen-big-o-chart.png)
 
+**Basic asymptotic efficiency classes**
+![](https://images.slideplayer.com/23/6791816/slides/slide_18.jpg)
 
+**Important Note**
 
+- Althoughignoredin Big-OH notation, **constants are very important!**
+- Programmers and algorithm developers are very interested in constants and readytospendnightsin order to make an algorithm run faster by a factor of 2
+- But understanding algorithms would be impossible without the simplicity afforded by big-O notation
+
+## Overview
+
+- Both time and space efficiencies are measured as functions of the algorithm’sinput size.
+- **Time efficiency**: Measured by counting the number of times the algorithm’s basic operation is executed.
+- **Space efficiency**: Measured by counting the number of extra memory units consumed by the algorithm
+- The efficiencies of some algorithms may differ significantly for inputs of thesame size. So, distinguishing between the worst-case,average-case, and best-case efficienciesmaybe required!
