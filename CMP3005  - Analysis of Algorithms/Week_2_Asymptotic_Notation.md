@@ -70,7 +70,7 @@ else return -1
 
 **Important Note**
 
-- Althoughignoredin Big-OH notation, **constants are very important!**
+- Although ignoredin Big-OH notation, **constants are very important!**
 - Programmers and algorithm developers are very interested in constants and readytospendnightsin order to make an algorithm run faster by a factor of 2
 - But understanding algorithms would be impossible without the simplicity afforded by big-O notation
 
