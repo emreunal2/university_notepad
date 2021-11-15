@@ -43,5 +43,5 @@ primitives
 
 ## Logic Gates
 
-![](https://static.packt-cdn.com/products/9781838981006/graphics/image/B15165_06_Table_01.jpg)
+![alttext](https://static.packt-cdn.com/products/9781838981006/graphics/image/B15165_06_Table_01.jpg)
 
