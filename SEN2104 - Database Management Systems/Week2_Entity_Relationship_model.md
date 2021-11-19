@@ -68,4 +68,22 @@ loan = (loan_number, amount )
   * Double ellipses represent multivalued attributes.
   * Dashed ellipses denote derived attributes.
 * Underline indicates primary key attributes (will study later)
-* 
+
+### One to Many Relationship
+
+* In a one-to-many relationship, a loan is associated with at most one customer via borrower, a customer is associated with several (including 0) loans via *borrower*
+
+![](https://fmhelp.filemaker.com/help/18/fmp/en/FMP_Help/images/relational.07.04.2.png)
+
+### Many to One Relationships
+
+* In a many-to-one relationship, a loan is associated with several (including 0) customers via borrower, a customer is associated with at most one loan via borrower21
+
+### Many to Many Relationships
+
+* A customer is associated with several (possibly 0) loans via borrower
+* A loan is associated with several (possibly 0) customers via borrower
+
+## **IMPORTANT**
+
+After this part of lesson has lots of visual things when you gonna study look into class videos.
