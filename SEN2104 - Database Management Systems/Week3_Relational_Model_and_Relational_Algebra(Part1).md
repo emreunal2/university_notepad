@@ -52,3 +52,35 @@
 ![](https://snipboard.io/VepL9I.jpg)
 
 
+### Query Languages
+* Language in which user requests information from the database.
+* Categories of languages
+  * Procedural
+  * Non-procedural, or declarative
+* “Pure” languages:
+  * Relational algebra
+  * Tuple relational calculus
+  * Domain relational calculus
+  * Pure languages form underlying basis of query languages that people use.
+
+## Relational Algebra
+* Procedural language
+* Six Basic Operators:  
+![](https://snipboard.io/7fdJob.jpg)
+
+## 1. **Select Operation**
+
+![](https://snipboard.io/bysRZB.jpg)
+
+### Select Operation Example
+
+![](https://snipboard.io/etQINO.jpg)
+
+## 2. **Project Operation**
+
+![](https://snipboard.io/WjSh4A.jpg)
+
+### Project Operation Example
+
+![](https://snipboard.io/jIaCvm.jpg)
+
