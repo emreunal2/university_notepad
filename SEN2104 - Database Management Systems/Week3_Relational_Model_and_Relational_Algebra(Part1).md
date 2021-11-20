@@ -84,3 +84,53 @@
 
 ![](https://snipboard.io/jIaCvm.jpg)
 
+## 3. **Union**
+
+![](https://snipboard.io/ElAKcf.jpg)
+
+### Union Operation Example
+
+![](https://snipboard.io/sKBukf.jpg)
+
+## 4. **Set Difference**
+
+![](https://snipboard.io/hCSRsO.jpg)
+
+### Set Difference Operation Example
+
+![](https://snipboard.io/3oOIwL.jpg)
+
+## 5. **Cartesian-Product**
+
+![](https://snipboard.io/fJl70b.jpg)
+
+### Cartesian-Product Example
+
+![](https://snipboard.io/YP9Qtu.jpg)
+
+![](https://snipboard.io/iBLfMv.jpg)
+![](https://snipboard.io/0FtVZS.jpg)
+
+## 6. **Rename**
+
+![](https://snipboard.io/S0lYN4.jpg)
+
+
+## **Banking Example**
+
+```SQL 
+branch (branch_name, branch_city, assets)
+customer (customer_name, customer_street, customer_city)
+account (account_number, branch_name, balance)
+loan (loan_number, branch_name, amount)
+depositor (customer_name, account_number)
+borrower(customer_name, loan_number)
+```
+
+**Schema Diagram:**
+
+![](https://snipboard.io/knE4pD.jpg)
+![](https://snipboard.io/Gs5Knq.jpg)
+![](https://snipboard.io/itbuNO.jpg)
+![](https://snipboard.io/ug2ZFm.jpg)
+![](https://snipboard.io/9aHnky.jpg)
