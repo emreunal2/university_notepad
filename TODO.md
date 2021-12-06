@@ -31,7 +31,7 @@
 - [ ] Binary Tree
 - [ ] Multiplication of Large Integers
 - [ ] Strassen's Matrix Multiplication
-- [ ] Closest Pair by Divide and Conquer
+- [X] Closest Pair by Divide and Conquer
 
 ### Chapter 5 - Transform and Conquer
 
