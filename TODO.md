@@ -1,21 +1,21 @@
 ## CMP3005 
 
-## Chapter 1 - Intro 
+### Chapter 1 - Intro 
 - [ ] Algorithm Intro 
 - [ ] Fundamentals of Algorihmic Problem Solving
 - [ ] Important Problem Types
 
-## Chapter 2 Part 1 - Fundamentals of Analysis Algorithm Efficiency
+### Chapter 2 Part 1 - Fundamentals of Analysis Algorithm Efficiency
 
 - [ ] The Analysis Framework
 - [ ] Asymptotic Notations  
 
-## Chapter 2 Part 2 - Nonrecursive and Recursive Algorithms
+### Chapter 2 Part 2 - Nonrecursive and Recursive Algorithms
 
 - [ ] Mathematical Analysis of Nonrecursive Algorithms
 - [ ] Mathematical Analysis of Recursive Algorithms
 
-## Chapter 3 - Brute Force Algorithms
+### Chapter 3 - Brute Force Algorithms
 
 - [ ] Selection Sort and Bubble Sort
 - [ ] Sequential Search
@@ -23,7 +23,7 @@
 - [ ] Exhaustive Search
 - [ ] Graph Traversal Algorithms (DFS and BFS)
 
-## Chapter 4 - Divide and Conquer
+### Chapter 4 - Divide and Conquer
 
 - [ ] Binary Search
 - [ ] Mergesort
@@ -33,7 +33,7 @@
 - [ ] Strassen's Matrix Multiplication
 - [ ] Closest Pair by Divide and Conquer
 
-## Chapter 5 - Transform and Conquer
+### Chapter 5 - Transform and Conquer
 
 - [ ] Presorting
 - [ ] Gaussian Elimination
