@@ -12,16 +12,16 @@
 
 ### Chapter 2 Part 2 - Nonrecursive and Recursive Algorithms
 
-- [ ] Mathematical Analysis of Nonrecursive Algorithms
+- [X] Mathematical Analysis of Nonrecursive Algorithms
 - [ ] Mathematical Analysis of Recursive Algorithms
 
 ### Chapter 3 - Brute Force Algorithms
 
-- [ ] Selection Sort and Bubble Sort
-- [ ] Sequential Search
-- [ ] Closest Pair by Brute Force 
-- [ ] Exhaustive Search
-- [ ] Graph Traversal Algorithms (DFS and BFS)
+- [X] Selection Sort and Bubble Sort
+- [X] Sequential Search
+- [X] Closest Pair by Brute Force 
+- [X] Exhaustive Search
+- [X] Graph Traversal Algorithms (DFS and BFS)
 
 ### Chapter 4 - Divide and Conquer
 
