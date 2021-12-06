@@ -25,9 +25,9 @@
 
 ### Chapter 4 - Divide and Conquer
 
-- [ ] Binary Search
-- [ ] Mergesort
-- [ ] Quicksort
+- [X] Binary Search
+- [X] Mergesort
+- [X] Quicksort
 - [ ] Binary Tree
 - [ ] Multiplication of Large Integers
 - [ ] Strassen's Matrix Multiplication
