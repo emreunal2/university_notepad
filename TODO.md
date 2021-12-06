@@ -1,14 +1,14 @@
 ## CMP3005 
 
 ### Chapter 1 - Intro 
-- [ ] Algorithm Intro 
-- [ ] Fundamentals of Algorihmic Problem Solving
-- [ ] Important Problem Types
+- [X] Algorithm Intro 
+- [X] Fundamentals of Algorihmic Problem Solving
+- [X] Important Problem Types
 
 ### Chapter 2 Part 1 - Fundamentals of Analysis Algorithm Efficiency
 
-- [ ] The Analysis Framework
-- [ ] Asymptotic Notations  
+- [X] The Analysis Framework
+- [X] Asymptotic Notations  
 
 ### Chapter 2 Part 2 - Nonrecursive and Recursive Algorithms
 
