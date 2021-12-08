@@ -1,4 +1,8 @@
-## CMP3005 
+## SEN2104 Database Management Systems
+
+
+
+## CMP3005 Analysis of Algorithms
 
 ### Chapter 1 - Intro 
 - [X] Algorithm Intro 
@@ -13,7 +17,7 @@
 ### Chapter 2 Part 2 - Nonrecursive and Recursive Algorithms
 
 - [X] Mathematical Analysis of Nonrecursive Algorithms
-- [ ] Mathematical Analysis of Recursive Algorithms
+- [X] Mathematical Analysis of Recursive Algorithms
 
 ### Chapter 3 - Brute Force Algorithms
 
@@ -28,23 +32,56 @@
 - [X] Binary Search
 - [X] Mergesort
 - [X] Quicksort
-- [ ] Binary Tree
+- [X] Binary Tree
 - [ ] Multiplication of Large Integers
 - [ ] Strassen's Matrix Multiplication
 - [X] Closest Pair by Divide and Conquer
 
 ### Chapter 5 - Transform and Conquer
 
-- [ ] Presorting
+- [X] Presorting
 - [ ] Gaussian Elimination
-- [ ] Balanced Search Trees
-    - [ ] AVL Trees
+- [X] Balanced Search Trees
+    - [X] AVL Trees
     - [ ] 2-3 Trees
-- [ ] Heap and Heapsort
+- [X] Heap and Heapsort
 - [ ] Horner's Rule
 - [ ] Problem Reduction
 
-## CMP3001
+## SEN2022 - Software Engineering Analysis and Design
+
+### Chapter 1 - Intro
+
+- [ ] Introduction to Software Engineering 
+- [ ] Basics of Systems Analysis and Design (SAD)
+- [ ] Stakeholders of systems analysis and design
+
+### Chapter 2 - SDLC Phases and Software Process Models
+
+- [ ] Phases of SDLC
+- [ ] Software Process Models Software
+
+### Chapter 3 - Software Project Management
+
+- [ ] Organization Structure
+- [ ] Team Size
+- [ ] Estimations
+  - [ ] Project Size Estimation
+  - [ ] Project Complexity Estimation
+  - [ ] Duration Estimation
+  - [ ] Effort Estimation
+- [ ] Expectations Management
+- [ ] Scheduling
+
+### Chapter 4 -  Requirements Analysis
+
+- [ ] Functional Requirements
+- [ ] Nonfunctional Requirements
+- [ ] Problem Discovery
+- [ ] Requirements Discovery
+- [ ] Use Case Modeling
+
+## CMP3001 - Operating Systems
 
 ### Chapter 1 - Intro 
 
@@ -88,3 +125,5 @@
 - [ ] Real-Time CPU Scheduling 
 - [ ] Operation System Examples
 - [ ] Algorithm Evaluation
+
+## CMP2007 - Digital System Design
