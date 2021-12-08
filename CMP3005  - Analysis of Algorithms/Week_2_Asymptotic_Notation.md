@@ -66,7 +66,7 @@ else return -1
 ![](https://jarednielsen.com/static/140e001aad420b3bcdda52c9da2a01f8/a987b/jarednielsen-big-o-chart.png)
 
 **Basic asymptotic efficiency classes**
-![](https://images.slideplayer.com/23/6791816/slides/slide_18.jpg)
+![](https://snipboard.io/xvrm3f.jpg)
 
 **Important Note**
 
