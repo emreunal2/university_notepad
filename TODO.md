@@ -71,7 +71,7 @@
   - [ ] Duration Estimation
   - [ ] Effort Estimation
 - [X] Expectations Management
-- [ ] Scheduling
+- [X] Scheduling
 
 ### Chapter 4 -  Requirements Analysis
 
