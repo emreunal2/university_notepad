@@ -52,25 +52,25 @@
 
 ### Chapter 1 - Intro
 
-- [ ] Introduction to Software Engineering 
-- [ ] Basics of Systems Analysis and Design (SAD)
-- [ ] Stakeholders of systems analysis and design
+- [X] Introduction to Software Engineering 
+- [X] Basics of Systems Analysis and Design (SAD)
+- [X] Stakeholders of systems analysis and design
 
 ### Chapter 2 - SDLC Phases and Software Process Models
 
-- [ ] Phases of SDLC
-- [ ] Software Process Models Software
+- [X] Phases of SDLC
+- [ ] Software Process Models
 
 ### Chapter 3 - Software Project Management
 
-- [ ] Organization Structure
-- [ ] Team Size
+- [X] Organization Structure
+- [X] Team Size
 - [ ] Estimations
-  - [ ] Project Size Estimation
-  - [ ] Project Complexity Estimation
+  - [X] Project Size Estimation
+  - [X] Project Complexity Estimation
   - [ ] Duration Estimation
   - [ ] Effort Estimation
-- [ ] Expectations Management
+- [X] Expectations Management
 - [ ] Scheduling
 
 ### Chapter 4 -  Requirements Analysis
