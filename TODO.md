@@ -1,8 +1,8 @@
-## SEN2104 Database Management Systems
+## SEN2104 - Database Management Systems
 
 
 
-## CMP3005 Analysis of Algorithms
+## CMP3005 - Analysis of Algorithms
 
 ### Chapter 1 - Intro 
 - [X] Algorithm Intro 
