@@ -85,42 +85,42 @@
 
 ### Chapter 1 - Intro 
 
-- [ ] Operating System Intro
-- [ ] Resource Management
-- [ ] Security
+- [X] Operating System Intro
+- [X] Resource Management
+- [X] Security
 - [ ] Virtualization
-- [ ] Computer System Architecture
-- [ ] Computer System Environments
-- [ ] Kernal Data Structure
+- [X] Computer System Architecture
+- [X] Computer System Environments
+- [X] Kernal Data Structure
 
 ### Chapter 2 - Operating System Services
 
-- [ ] UI and GUI
-- [ ] System Calls
-- [ ] System Services
-- [ ] Linkers and Loaders
-- [ ] Design and Implementation
-- [ ] Operating System Structure
+- [X] UI and GUI
+- [X] System Calls
+- [X] System Services
+- [X] Linkers and Loaders
+- [X] Design and Implementation
+- [X] Operating System Structure
 - [ ] Building and Booting an Operating System
 - [ ] Operating System Debugging
 
 ### Chapter 3 - Process  
 
-- [ ] Process Concept
-- [ ] Process Scheduling
-- [ ] Operations on Processes
-- [ ] Interprocess Communication
-- [ ] IPC in Shared-Memory Systems
-- [ ] IPC in Message-Passing Systems
-- [ ] IPC Systems Examples
+- [X] Process Concept
+- [X] Process Scheduling
+- [X] Operations on Processes
+- [X] Interprocess Communication
+- [X] IPC in Shared-Memory Systems
+- [X] IPC in Message-Passing Systems
+- [X] IPC Systems Examples
 - [ ] Communication in Client-Server Systems
 
 ### Chapter 5 - CPU Scheduling
 
-- [ ] Basic Concepts
-- [ ] Scheduling Criteria
-- [ ] Scheduling Algorithms
-- [ ] Thread Scheduling
+- [X] Basic Concepts
+- [X] Scheduling Criteria
+- [X] Scheduling Algorithms
+- [X] Thread Scheduling
 - [ ] Multi-Processor Scheduling 
 - [ ] Real-Time CPU Scheduling 
 - [ ] Operation System Examples
