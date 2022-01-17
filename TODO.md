@@ -81,6 +81,18 @@
 - [ ] Requirements Discovery
 - [ ] Use Case Modeling
 
+### Chapter 5 -  Software Design
+
+- [ ] Data Modeling and Analysis
+- [ ] UML Diagrams (Part 1)
+- [ ] UML Diagrams (Part 2)
+- [ ] Process Modeling 
+
+### Chapter 6 -  Process Modeling
+
+- [ ] Feasibility Analysis
+- [ ] System Proposal 
+
 ## CMP3001 - Operating Systems
 
 ### Chapter 1 - Intro 
