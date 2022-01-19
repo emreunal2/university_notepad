@@ -48,6 +48,36 @@
 - [ ] Horner's Rule
 - [ ] Problem Reduction
 
+
+### Chapter 6 - Space and Time Trade-Offs
+
+- [ ] Sorting based on Input Enhancement
+    - [ ] Sorting by Counting
+    - [ ] Horspool’s Algorithm
+    - [ ] Boyer-Moore Algorithm
+- [ ] Hashing
+    - [ ] Open Hashing
+    - [ ] Closed Hashing
+
+### Chapter 7 - Dynamic Programming
+
+- [ ] Examples
+    - [ ] Example 1: Fibonacci numbers
+    - [ ] Example 2: Coin-row problem
+    - [ ] Example 3: Change-making problem
+    - [ ] Example 4: Coin-collecting by robot
+    - [ ] Example 5: Maximize Profit
+- [ ] Knapsack Problem by DP
+- [ ] Warshall’s Algorithm
+- [ ] Floyd’s Algorithm
+
+### Chapter 8 - Greedy Algorithms
+
+- [ ] Prim's Algorithm
+- [ ] Kruskal's Algorithm
+- [ ] Dijkstra's Algorithm
+- [ ] Huffman Trees and Codes
+
 ## SEN2022 - Software Engineering Analysis and Design
 
 ### Chapter 1 - Intro
