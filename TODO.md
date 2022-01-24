@@ -1,6 +1,6 @@
 ## SEN2104 - Database Management Systems
 
-
+https://www.complexsql.com/database-normalization/
 
 ## CMP3005 - Analysis of Algorithms
 
