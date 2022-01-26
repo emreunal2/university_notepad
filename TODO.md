@@ -192,6 +192,15 @@ https://www.complexsql.com/database-normalization/
 
 ### Chapter 10 - Virtual Memory
 
-- [ ] 
+- [ ] Background
+- [ ] Demand Paging
+- [ ] Copy-on-Write
+- [ ] Page Replacement
+- [ ] Allocation of Frames
+- [ ] Thrashing
+- [ ] Memory-Mapped Files
+- [ ] Allocating Kernel Memory
+- [ ] Other Considerations
+- [ ] Operating-System Examples
 
 ## CMP2007 - Digital System Design
