@@ -168,4 +168,30 @@ https://www.complexsql.com/database-normalization/
 - [ ] Operation System Examples
 - [ ] Algorithm Evaluation
 
+### Chapter 6 - Synchronization Tools
+
+- [ ] Background
+- [ ] The Critical-Section Problem
+- [ ] Peterson’s Solution
+- [ ] Hardware Support for Synchronization
+- [ ] Mutex Locks
+- [ ] Semaphores
+- [ ] Monitors
+- [ ] Liveness
+- [ ] Evaluation
+
+### Chapter 9 - Main Memory
+
+- [ ] Background
+- [ ] Contiguous Memory Allocation
+- [ ] Paging
+- [ ] Structure of the Page Table
+- [ ] Swapping
+- [ ] Example: The Intel 32 and 64-bit Architectures
+- [ ] Example: ARMv8 Architecture
+
+### Chapter 10 - Virtual Memory
+
+- [ ] 
+
 ## CMP2007 - Digital System Design
