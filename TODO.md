@@ -73,8 +73,13 @@ https://www.complexsql.com/database-normalization/
 
 ### Chapter 8 - Greedy Algorithms
 
-- [ ] Prim's Algorithm
-- [ ] Kruskal's Algorithm
+- [ ] Examples
+    - [ ] Example 1: Activity Selection
+    - [ ] Example 2: Change-making problem
+    - [ ] Example 3: Knapsack Problem by Greedy Algorithm
+- [ ] Minimum Spanning Tree Algorithms
+    - [ ] Prim's Algorithm
+    - [ ] Kruskal's Algorithm
 - [ ] Dijkstra's Algorithm
 - [ ] Huffman Trees and Codes
 
