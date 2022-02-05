@@ -70,6 +70,7 @@ https://www.complexsql.com/database-normalization/
 - [ ] Knapsack Problem by DP
 - [ ] Warshall’s Algorithm
 - [ ] Floyd’s Algorithm
+- [ ] DynamicProgramming Sol. Of TSP
 
 ### Chapter 8 - Greedy Algorithms
 
