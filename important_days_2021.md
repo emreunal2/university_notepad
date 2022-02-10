@@ -13,7 +13,7 @@
 ### Projects
 
 - [X] SEN2104 - Grade: 93,00
-- [X] CMP3005 - 16.01 Sunday
+- [X] CMP3005 - Grade: 95,00 Average: 56,50
 - [X] CMP3001 -  16.01 Sunday
 - [ ] SEN2022 - 14.01 Friday
 
